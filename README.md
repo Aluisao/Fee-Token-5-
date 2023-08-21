@@ -1,1 +1,2 @@
 # Fee-Token-5-
+Este es un contrato ERC-20 personalizado que hereda de ERC20 de la biblioteca OpenZeppelin y Ownable para gestionar la propiedad del contrato. Toma en cuenta que este código es un ejemplo básico y no ha sido probado en un entorno de producción. Antes de desplegar cualquier contrato en la red principal de Ethereum, es importante realizar pruebas exhaustivas y asegurarse de comprender completamente las implicaciones de seguridad y económicas.
